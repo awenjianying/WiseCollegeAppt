@@ -15,19 +15,10 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
-
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
-
-
-
-## 演示
+![image](https://user-images.githubusercontent.com/101682044/158703063-d8c231b0-c28f-4110-ae6e-0abe50e0ab96.png)
  
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+
+ 
  
 
 ## 安装
@@ -37,22 +28,24 @@
 
 
 
-## 截图
- ![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%A7%84%E5%88%99.png)
-![输入图片说明](demo/%E8%87%AA%E4%B9%A0%E5%AE%A4%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/%E5%82%A8%E7%89%A9%E6%9F%9C%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E5%A1%AB%E6%8A%A5%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%88%90.png)
+## 截图 
+![image](https://user-images.githubusercontent.com/101682044/158703087-94c7e781-7acc-4c1e-b16f-060d705a7119.png)
+![image](https://user-images.githubusercontent.com/101682044/158703097-65fb903a-82aa-4b0c-8087-a5bbc856618b.png)
+![image](https://user-images.githubusercontent.com/101682044/158703103-4151931e-849f-4223-a51b-31a2c65d9bdb.png)
+![image](https://user-images.githubusercontent.com/101682044/158703108-5ccaf52a-1783-4eea-92da-25efaa0d86c7.png)
+![image](https://user-images.githubusercontent.com/101682044/158703113-78b32ffd-62e9-44fa-a07d-a834f0b6cbc8.png)
+![image](https://user-images.githubusercontent.com/101682044/158703118-6525a840-0a81-437f-8e71-a9e9d35d0d18.png)
+![image](https://user-images.githubusercontent.com/101682044/158703121-21ed709d-10d7-4044-837c-8b5d39cbd0fb.png)
+![image](https://user-images.githubusercontent.com/101682044/158703124-4142531e-9197-4b64-b62a-4df2422aa7ed.png)
+![image](https://user-images.githubusercontent.com/101682044/158703133-c3df5e25-8ce1-4ce3-b096-91f6ad4a43c2.png)
 
 
-## 后台管理系统截图
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
 
-![输入图片说明](demo/%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/%E5%B7%A5%E5%8D%95.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
+## 后台管理系统截图 
+![image](https://user-images.githubusercontent.com/101682044/158703138-b6e5a300-104d-4cad-b85b-097b46afefd7.png)
+![image](https://user-images.githubusercontent.com/101682044/158703158-b648aaba-4b6b-4203-b2c5-416bbf1dac53.png)
+![image](https://user-images.githubusercontent.com/101682044/158703168-d9803cf4-6617-4052-a99b-e0cc487c9674.png)
+![image](https://user-images.githubusercontent.com/101682044/158703171-5375db2d-201d-4efe-b407-525dd4bc26c3.png)
+![image](https://user-images.githubusercontent.com/101682044/158703180-9260f5ba-8808-40fd-9a4e-d65b4f392921.png)
+![image](https://user-images.githubusercontent.com/101682044/158703185-628c1f35-e418-414d-bb49-a669b994a4ef.png)
+
